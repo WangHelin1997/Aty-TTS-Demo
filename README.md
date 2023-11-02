@@ -1,3 +1,3 @@
 # Aty-TTS-Demo
 
-Demo for Improving Spoken Language Understanding in Atypical Speech: A New Method for Data Augmentation using Text-to-Speech
+Demo for Improving fairness for spoken language understanding in atypical speech with Text-to-Speech
